@@ -1,5 +1,8 @@
 # Furry Game
 
+## Link
+https://grzana.github.io/FurryGame_Workshop/
+
 ## Description
 
 The workshop aims to improve some JS elements:
